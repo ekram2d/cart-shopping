@@ -26,7 +26,7 @@ const Navbar = () => {
         <nav className="bg-black p-4 mb-12">
             <div className="container mx-auto flex items-center justify-between ">
                 <div className="text-white font-bold text-lg">
-                    Brand
+                Restaurent Menu Cart
                 </div>
                 <div className="hidden sm:block">
                     <ul className="flex space-x-4">
