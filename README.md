@@ -18,8 +18,7 @@ Follow these steps to get the project up and running:
 
 1. Clone this repository to your local machine.
 
-   ```shell
--https://github.com/ekram2d/cart-shopping.git
+   ```shell https://github.com/ekram2d/cart-shopping.git
 2. Navigate to the project directory
 -cd Simple-Shopping-Cart-Application
 3.Install project dependencies
