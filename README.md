@@ -20,10 +20,8 @@ Follow these steps to get the project up and running:
  https://github.com/ekram2d/cart-shopping.git
 
 - Navigate to the project directory: cd Simple-Shopping-Cart-Application
-- 
--Install project dependencies : npm install
-
--Start the development server :npm run dev
+- Install project dependencies : npm install
+- Start the development server :npm run dev
 
 
 
