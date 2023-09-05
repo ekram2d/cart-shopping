@@ -16,16 +16,11 @@ This project serves as a minimal template for setting up a React project with Vi
 
 Follow these steps to get the project up and running:
 
-1. Clone this repository to your local machine.
-2.   ```shell
-   git clone https://github.com/ekram2d/Simple-Shopping-Cart-Application.gits
+- Clone this repository to your local machine.
  https://github.com/ekram2d/cart-shopping.git
-3. Navigate to the project directory
--cd Simple-Shopping-Cart-Application
-3.Install project dependencies
--npm install
-4.Start the development server
--npm run dev
+- Navigate to the project directory: cd Simple-Shopping-Cart-Application
+-Install project dependencies : npm install
+-Start the development server :npm run dev
 
 
 
