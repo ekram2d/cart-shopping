@@ -1,6 +1,7 @@
 # Simple Restuarent menu Cart Application
--Live_LinK: https://64f72c02ecf4c0009bd01cf0--gilded-praline-4a88ff.netlify.app/
-This is a simple Restuarent menu cart application built using React and Vite.
+
+ - Live_LinK: https://64f72c02ecf4c0009bd01cf0--gilded-praline-4a88ff.netlify.app/
+ - This is a simple Restuarent menu cart application built using React and Vite.
 
 ## Overview
 
